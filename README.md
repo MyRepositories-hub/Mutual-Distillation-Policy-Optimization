@@ -8,11 +8,24 @@
 
 [arXiv](coming soon...)
 
+# Main Results
 <div align="center">
   <img src="./Fig/dml-1.png" width="80%">
 </div>
 
 **Caption:** (Left) Independently trained reinforcement learning policies may overfit to spurious features. (Right) Through mutual distillation via DML, two policies regularize each other to converge toward a more robust hypothesis space, ultimately improving generalization performance.
+
+<div align="center">
+  <img src="./Fig/test_return-1.png" width="100%">
+</div>
+
+**Caption:** Generalization performance from 500 levels in Procgen benchmark with different methods. The mean and standard deviation are shown across 3 seeds. Our MDPO gains significant performance improvement compared with the baseline algorithms.
+
+<div align="center">
+  <img src="./Fig/t-SNE-1.png" width="80%">
+</div>
+
+**Caption:** The feature extraction of MDPO is highly stable and focused (red points), whereas the features extracted by the original PPO encoder are significantly dispersed (blue points).
 
 
 # Installation
