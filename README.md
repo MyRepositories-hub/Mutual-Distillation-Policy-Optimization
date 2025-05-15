@@ -6,11 +6,13 @@
   Zhengpeng Xie*, Jiahang Cao*, Qiang Zhang, Jianxiong Zhang, Changwei Wang, Renjing Xu
 </p>
 
-<p align="center">
-  HKUST(GZ)
-</p>
-
 [arXiv](coming soon...)
+
+<div align="center">
+  <img src="./Fig/dml-1.png" width="80%">
+</div>
+
+**Caption:** (Left) Independently trained reinforcement learning policies may overfit to spurious features. (Right) Through mutual distillation via DML, two policies regularize each other to converge toward a more robust hypothesis space, ultimately improving generalization performance.
 
 
 # Installation
