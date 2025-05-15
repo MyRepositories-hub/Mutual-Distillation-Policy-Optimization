@@ -43,4 +43,4 @@ python ppo.py
 ```
 
 # Acknowledgement
-The code is based on [cleanrl](https://github.com/vwxyzjn/cleanrl). For the implementation of Mutual Distillation Policy Optimization (MDPO), we divide it into multiple components to enhance readability.
+The code is based on [cleanrl](https://github.com/vwxyzjn/cleanrl/blob/master/cleanrl/ppo_procgen.py). The implementation of Mutual Distillation Policy Optimization (MDPO) is divided into multiple components to enhance readability.
