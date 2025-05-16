@@ -6,7 +6,7 @@
   Zhengpeng Xie*, Jiahang Cao*, Qiang Zhang, Jianxiong Zhang, Changwei Wang, Renjing Xu
 </p>
 
-[arXiv](coming soon...)
+[arXiv](https://arxiv.org/abs/2501.02481)
 
 # Main Results
 <div align="center">
